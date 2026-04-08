@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**hena-analytics/hena-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SQL-focused Data Analyst with experience in customer, CRM, and business insights.
 
-Here are some ideas to get you started:
+## About Me
+- Background in CRM and e-commerce analytics
+- Strong in SQL and business-focused analysis
+- Interested in customer behavior, retention, and reporting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Working On
+- Building my data analytics portfolio
+- Expanding projects in SQL and business analysis
+
+## Featured Projects
+- Coming soon
